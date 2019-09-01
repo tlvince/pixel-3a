@@ -1,3 +1,0 @@
-bloat.csv
-google-apps.csv
-useless.csv
