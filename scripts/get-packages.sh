@@ -4,7 +4,7 @@ set -euo pipefail
 out="build/de-bloat.txt"
 rm -rf "$out"
 
-tags="${1:-"bloat|google|useless"}"
+tags="${1:-"bloat|gapps|useless"}"
 
 tail -n +2 "packages.csv" | \
   grep -E ",($tags)," | \
