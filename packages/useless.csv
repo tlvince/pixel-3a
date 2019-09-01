@@ -1,0 +1,9 @@
+package,comment,reference
+com.android.backupconfirm,Restores Google settings,
+com.android.egg,Easter egg,
+com.android.dreams.basic,Screensaver,
+com.android.internal.display.cutout.emulation.corner,Notch,
+com.android.internal.display.cutout.emulation.double,Notch,
+com.android.internal.display.cutout.emulation.tall,Notch,
+com.android.stk,SIM Toolkit,https://android.stackexchange.com/questions/96758/what-is-sim-toolkit-and-how-do-i-remove-it
+com.qualcomm.qti.uceShimService,Rich Communication Services,https://en.wikipedia.org/wiki/Rich_Communication_Services
